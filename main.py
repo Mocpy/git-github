@@ -1,4 +1,4 @@
 print("hello, world")
 print(1 + 1)
-number = 7
-print(number)
+test = 7
+print(test)
